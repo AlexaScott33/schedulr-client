@@ -33,10 +33,10 @@ Settings - Light Theme
 <img width="1281" alt="screen shot 2018-06-28 at 3 02 52 pm" src="https://user-images.githubusercontent.com/24361293/42062968-6cf0c016-7ae4-11e8-8e83-bbc67c9a4b36.png">
 
 ## View the Backend code here:
-https://github.com/thinkful-ei19/Final-CS-ctrl-alt-elite-server
+https://github.com/AlexaScott33/schedulr-server
 
 ## View the React Native code here:
-https://github.com/thinkful-ei19/Final-CS-ctrl-alt-elite-react-native
+https://github.com/AlexaScott33/schedulr-react-native
 
 
 ## Tech Used
